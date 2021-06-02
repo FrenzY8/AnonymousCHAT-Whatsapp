@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./src/media/screenshot/ss.jpg"/>
+<img src="./screenshot/ss.jpg"/>
 </p>
 <p align="center">
 <!-- <h1>ANONYMOUS CHAT BOT</h1> -->
