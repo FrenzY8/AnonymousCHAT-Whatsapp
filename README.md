@@ -17,6 +17,9 @@
 <a href="https://github.com/MRHRTZ/Anon-Chat/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MRHRTZ/Anon-Chat?color=red&style=flat-square"></a>
 </p>
 
+## This is not Work for Termux!
+- Only Working On : Windows, Rdp or Vps
+
 ## We Need its Before Start
 - Install node js ( <a href="https://nodejs.org/en/download/">Download Here ( Download disini! )</a> )
 - clone this repo ( git clone https://github.com/FrenzY8/AnonymousCHAT-Whatsapp )
