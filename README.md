@@ -18,8 +18,8 @@
 </p>
 
 ## We Need its Before Start
-- Install node js ( <a href="https://nodejs.org/en/download/">Download Here</a> )
-- clone this repo ( git clone https://github.com/MRHRTZ/Anon-Chat )
+- Install node js ( <a href="https://nodejs.org/en/download/">Download Here ( Download disini! )</a> )
+- clone this repo ( git clone https://github.com/FrenzY8/AnonymousCHAT-Whatsapp )
 - Goto this directory ( cd Anon-Chat )
 - 
 ## 🔍 Installing the dependencies
