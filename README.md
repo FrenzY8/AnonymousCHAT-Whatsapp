@@ -17,8 +17,8 @@
 <a href="https://github.com/MRHRTZ/Anon-Chat/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MRHRTZ/Anon-Chat?color=red&style=flat-square"></a>
 </p>
 
-## This is not Work for Termux!
-- Only Working On : Windows, Rdp or Vps
+## Contact
+- [🤖 Try a Ready-made Bot (Coba Bot Yang Sudah Jadi)](http://wa.me/6283871151084?text=!start)
 - [❤️ My WhatsApp ❤️](wa.me6285283200715)
 ## We Need its Before Start
 
