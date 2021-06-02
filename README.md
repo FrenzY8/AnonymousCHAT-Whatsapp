@@ -19,7 +19,7 @@
 
 ## Contact
 - [🤖 Try a Ready-made Bot (Coba Bot Yang Sudah Jadi)](http://wa.me/6283871151084?text=!start)
-- [❤️ My WhatsApp ❤️](wa.me6285283200715)
+- [❤️ My WhatsApp](wa.me6285283200715)
 ## We Need its Before Start
 
 - Install node js ( <a href="https://nodejs.org/en/download/">Download Here ( Download disini! )</a> )
