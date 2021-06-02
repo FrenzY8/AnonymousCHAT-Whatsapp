@@ -1,6 +1,7 @@
 <p align="center">
 <img src="./screenshot/ss.jpg"/>
-<a <img src="./screenshot/xy.jpg"/>
+<a align="center">
+<img src="./screenshot/xy.jpg"/>
 <p align="center">
 <!-- <h1>ANONYMOUS CHAT BOT</h1> -->
 </p>
@@ -24,6 +25,18 @@
 ## Lets Installation And Start!
 - Install It ( npm i )
 - Run ( npm start )
+
+## ✍️ Editing the file
+Edit the required value in `settings.json`.
+```json
+{
+  "Owner": "628xxxxxx@s.whatsapp.net",
+  "Partner": "628xxxx@s.whatsapp.net",  
+  "PORT": 3001,
+  "Session_Name": "MRHRTZ@kali:~#",
+  "maxMatch": 20
+}
+``
 
 ## Note
 - You Can change Owner Number on settings.js
