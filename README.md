@@ -1,8 +1,8 @@
 <p align="center">
-<img src="./src/media/screenshot/ss.png"/>
+<img src="./src/media/screenshot/ss.jpg"/>
 </p>
 <p align="center">
-<!-- <h1>ANCHT BOT</h1> -->
+<!-- <h1>ANONYMOUS CHAT BOT</h1> -->
 </p>
 <p align="center">
 <a href="https://github.com/MRHRTZ"><img title="Author" src="https://img.shields.io/badge/Author-MRHRTZ-red.svg?style=for-the-badge&logo=github"></a>
@@ -14,17 +14,19 @@
 <a href="https://github.com/MRHRTZ/Anon-Chat/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MRHRTZ/Anon-Chat?color=red&style=flat-square"></a>
 </p>
 
-## Installation
+## We Need its Before Start
 - Install node js ( <a href="https://nodejs.org/en/download/">Download Here</a> )
 - clone this repo ( git clone https://github.com/MRHRTZ/Anon-Chat )
 - Goto this directory ( cd Anon-Chat )
+- 
+## Lets Installation And Start!
 - Install It ( npm i )
 - Run ( npm start )
 
 ## Note
-- You can change sessions and owner at src/settings.json
-- For different session you must change session name at settings 
+- You Can change Owner Number on settings.js
+- and make sure your node js v14!
 
-## Contact Me
-- <a href="https://wa.me/79581331547?text=Hi">WhatsApp</a>
-- <a href="https://www.instagram.com/hanif_az.sq.61">Instagram</a>
+## if u have a bug! Contact me!
+- <a href="https://wa.me/6285283200715?text=bug report">WhatsApp</a>
+- <a href="https://www.instagram.com/frenzy.apk">Instagram</a>
