@@ -22,9 +22,26 @@
 - clone this repo ( git clone https://github.com/MRHRTZ/Anon-Chat )
 - Goto this directory ( cd Anon-Chat )
 - 
-## Lets Installation And Start!
-- Install It ( npm i )
-- Run ( npm start )
+## 🔍 Installing the dependencies
+```cmd
+> npm install
+```
+
+## 🆗 Running the bot
+Regular node:
+- cmd
+- npm start
+
+## 🗣️ Changing language
+If you want to change the language to English, on `index.js`   
+Example:
+```js
+ind.wrongFormat()
+```
+To:
+```js
+eng.wrongFormat()
+```
 
 ## ✍️ Editing the file
 Edit the required value in `settings.json`.
@@ -36,12 +53,3 @@ Edit the required value in `settings.json`.
   "Session_Name": "MRHRTZ@kali:~#",
   "maxMatch": 20
 }
-``
-
-## Note
-- You Can change Owner Number on settings.js
-- and make sure your node js v14!
-
-## if u have a bug! Contact me!
-- <a href="https://wa.me/6285283200715?text=bug report">WhatsApp</a>
-- <a href="https://www.instagram.com/frenzy.apk">Instagram</a>
