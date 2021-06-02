@@ -19,7 +19,7 @@
 
 ## This is not Work for Termux!
 - Only Working On : Windows, Rdp or Vps
-- [M❤️ Myy WhatsApp ❤️](wa.me6285283200715)
+- [❤️ My WhatsApp ❤️](wa.me6285283200715)
 ## We Need its Before Start
 
 - Install node js ( <a href="https://nodejs.org/en/download/">Download Here ( Download disini! )</a> )
