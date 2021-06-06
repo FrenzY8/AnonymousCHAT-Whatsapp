@@ -1,7 +1,7 @@
 <p align="center">
 <img src="./screenshot/ss.jpg"/>
 <a align="center">
-<img src="./screenshot/xy.jpg"/>
+<img src="./screenshot/20210407_163648.jpg"/>
 <p align="center">
 <!-- <h1>ANONYMOUS CHAT BOT</h1> -->
 </p>
