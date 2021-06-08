@@ -1,4 +1,4 @@
-"use strict";
+"use strict";  // let him on top!
 
 
 var fs = require("fs");
@@ -20,12 +20,12 @@ function ERRLOG(e) {
 
 function getRemaining(endtime) {
      const total = Date.parse(endtime) - Date.parse(new Date());
-     const seconds = Math.floor((total / 1000) % 60);
-     const minutes = Math.floor((total / 1000 / 60) % 60);
-     const hours = Math.floor((total / (1000 * 60 * 60)) % 24);
-     const days = Math.floor(total / (1000 * 60 * 60 * 24));
+     const seconds = Math.floor((total / 1000) % 60); // second delay
+     const minutes = Math.floor((total / 1000 / 60) % 60); // minutes delay
+     const hours = Math.floor((total / (1000 * 60 * 60)) % 24); // hour delay
+     const days = Math.floor(total / (1000 * 60 * 60 * 24)); // days delay
 
-     return {
+     return { // all returns to :
           total,
           days,
           hours,
@@ -251,7 +251,7 @@ module.exports = handle = async (
                     }
                     conn.sendMessage(targetChat, mediaData.message.contactsArrayMessage, 'contactsArrayMessage')
                } else if (type === 'extendedTextMessage') {
-                    let quoted = hurtz.message.extendedTextMessage.contextInfo ? mediaData : {}
+                    let quoted = hurtz.message.extendedTextMessage.contextInfo ? mediaData : {} // lets edit the media data :)
                     conn.sendMessage(targetChat, body, MessageType.text, { quoted: { ...quoted, key: { fromMe: true, credit: 'FrenzY X BOT For Anonymous Chat V1\nInstagram : @frenzy.apk' } } })
                }
           }
