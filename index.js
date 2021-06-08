@@ -1,4 +1,4 @@
-"use strict";
+"use strict"; // let it on top! dont put this on Bottom ok?!
 
 const fs = require('fs')
 const { WAConnection, MessageType, Mimetype, GroupSettingChange } = require("@adiwajshing/baileys")
@@ -34,7 +34,7 @@ const mulai = async (sesi, conn = new WAConnection()) => {
      conn.on('contacts-received', async () => {
           const authInfo = conn.base64EncodedAuthInfo()
           fs.writeFileSync('./src/sessions/' + sesi + '.sesi.json', JSON.stringify(authInfo, null, 2))
-          delay(1000)
+          delay(1000) // for delay ms ( try it )
           status.stop()
           starting.stop()
           if (!IsShouldmessage) {
