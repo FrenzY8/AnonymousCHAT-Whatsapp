@@ -11,7 +11,7 @@ var delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
 var time = moment(new Date()).format('HH:mm:ss DD/MM/YYYY')
 
 const { match, stop, isMatched } = require('../../lib/matchmaking')
-
+// next update soon
 function ERRLOG(e) {
      console.log(
           chalk.redBright('[ ANCHT ] '),
