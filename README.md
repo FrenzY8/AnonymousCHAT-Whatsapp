@@ -54,6 +54,6 @@ Edit the required value in `settings.json`.
   "Owner": "628xxxxxx@s.whatsapp.net",
   "Partner": "628xxxx@s.whatsapp.net",  
   "PORT": 3001,
-  "Session_Name": "MRHRTZ@kali:~#",
+  "Session_Name": "Your_Bot",
   "maxMatch": 20
 }
